@@ -1,0 +1,5 @@
+.idea/*
+www/vendor/*
+www/public/vendor/*
+database/*
+etc/log/*
